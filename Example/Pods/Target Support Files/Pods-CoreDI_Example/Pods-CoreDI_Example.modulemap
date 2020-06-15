@@ -1,0 +1,6 @@
+framework module Pods_CoreDI_Example {
+  umbrella header "Pods-CoreDI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

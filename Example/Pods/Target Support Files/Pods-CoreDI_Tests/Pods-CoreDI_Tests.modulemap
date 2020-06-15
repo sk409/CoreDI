@@ -1,0 +1,6 @@
+framework module Pods_CoreDI_Tests {
+  umbrella header "Pods-CoreDI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
