@@ -699,8 +699,7 @@
 		536439E0249795B400DDBCEF /* CoreDI */ = {
 			isa = PBXGroup;
 			children = (
-				536439E3249795E700DDBCEF /* vc */,
-				536439E1249795E700DDBCEF /* viewmodel */,
+				536439E7249797EE00DDBCEF /* Classes */,
 			);
 			path = CoreDI;
 			sourceTree = "<group>";
@@ -719,6 +718,15 @@
 				536439E4249795E700DDBCEF /* ViewControllerFactory.swift */,
 			);
 			path = vc;
+			sourceTree = "<group>";
+		};
+		536439E7249797EE00DDBCEF /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				536439E3249795E700DDBCEF /* vc */,
+				536439E1249795E700DDBCEF /* viewmodel */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		5A8239B9B05750DC9F34C39E49C3F24E /* Frameworks */ = {
